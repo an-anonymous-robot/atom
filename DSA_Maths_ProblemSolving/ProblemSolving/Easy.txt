@@ -1,0 +1,18 @@
+Q: Find for how many elements, there is a strictly smaller element and a strictly greater element.
+Soln: Find count of elements which are not max and min of the array.
+Link: https://www.scaler.com/academy/mentee-dashboard/class/11069/homework/problems/1195/submissions
+
+Q: You are given an array of distinct integers A, you have to find and return all elements in array which have at-least two greater elements than themselves.
+Soln: Return array without the min, second min, max and second max
+Link: https://www.scaler.com/academy/mentee-dashboard/class/11069/homework/problems/4073?navref=cl_tt_nv
+
+Q: Return the difference between the maximum among all even numbers of A and the minimum among all odd numbers in A.
+Soln: Find diff between max even and min odd
+Link: https://www.scaler.com/academy/mentee-dashboard/class/11069/homework/problems/8645?navref=cl_tt_nv
+
+Q: Print a Pattern According to The Given Value of A. Example: For A = 3 pattern looks like:
+1 0 0
+1 2 0
+1 2 3
+Soln: Use nested loops i 0->A-1, j 1->i+1, k 1->n-i-1
+Link: https://www.scaler.com/academy/mentee-dashboard/class/11069/homework/problems/9259?navref=cl_tt_nv
